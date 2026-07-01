@@ -8,6 +8,7 @@ urls = [
     "https://www.swisscom.ch",
     "https://www.google.com",
     "https://www.github.com",
+    "https://www.dieseseitegibtesnicht123456.ch",
 ]
 
 def send_email(subject, body):
