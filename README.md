@@ -102,8 +102,5 @@ GitHub startet die Pipeline automatisch.
 
 - Wie GitHub Actions und CI/CD Pipelines funktionieren
 - Wie man Secrets sicher in GitHub speichert
-- Wie man Python für Automatisierung einsetzt
-- Wie SMTP für automatische E-Mails funktioniert
-- Grundlagen von Git und Versionskontrolle
 
 ---
